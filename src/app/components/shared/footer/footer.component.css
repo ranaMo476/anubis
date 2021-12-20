@@ -8,16 +8,15 @@
 }
 @media (max-width:1000px) {
     
-    .contanier{
-        height:1000vh;
-    }
    .tex .img{
        width:25%;
    }
     
 
     .footer-distributed{
-        background-color: #18196A;
+        background-color: #18196A !important;
+        height: 900px;
+
         /*margin-top: 200%;*/
       
     }
@@ -25,8 +24,8 @@
     
     .tex{
         font-family: Comic Sans MS;
-        color: #FFFFFF;
-        font-size: 1vh;
+        color: #ffffff !important;
+        font-size: 16px !important;
     }
     
 }
@@ -35,7 +34,6 @@
 .footer-distributed{
 	background-color: #18196A;
 	width: 100%;
-
 	font: bold 16px Comic Sans MS;
 	padding: 50px 50px 60px 50px;
 	/*margin-top: 200%;*/

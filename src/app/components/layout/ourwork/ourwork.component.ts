@@ -8,10 +8,16 @@ import { Product } from '../../shared/view/share/product';
 })
 export class OurworkComponent  {
 
- public work = Ourwork ;
-  product!: Product;
+//  public work = Ourwork ;
+ public product;
+  // product!: Product;
   constructor( ) { 
-   this.product;
+   this.product = [
+     {log:"log.png",link:"url"},
+     {log:"log.png",link:"url"},
+     {log:"log.png",link:"url"},
+
+   ]
    
      
   }

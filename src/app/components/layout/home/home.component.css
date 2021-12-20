@@ -3,9 +3,6 @@
     border-radius: 100px;
     box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
 }
-*{
-    border: 2px solid black;
-}
 
 @media (min-width:320px){
     .bulidm{
@@ -21,16 +18,9 @@
         justify-content: flex-start;
         width: 100%;
     }
-    .right img{
-
-        margin-left: 45%;
-          
-       }
+   
     .txtl{
-        position:absolute; 
-        top: 25%;
-        left:20%;
-        margin-top: 100px;
+       
        width: 50%;
     }
     .our{
@@ -41,7 +31,6 @@
     }
     .offer li{
        
-        width: 200%;
          font-size: 5vh;
     }
     .aboutus contanier{
@@ -146,17 +135,17 @@ margin-left: 50px;
     margin-top: 8%;
 }
  .right{
-     margin-left: 100px;
+     width: 100%;
+     display: flex;
+     justify-content: end;
  }
 
 .offer{
     top:35%;
 }
-.txtl{
-    
-   margin-top: 180px;
-   width: 83%;
-   margin-left: 80px;
+.txtl img {
+    width: 300px;
+    margin: 5px;
 }
 .txtl2{
     
