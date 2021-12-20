@@ -1,0 +1,80 @@
+
+.work img{
+    width: 26%;
+    padding-left: 20px;
+    padding-top: 70px;
+}
+.our{
+    margin-left: 80px;
+}
+.text p{
+    font-family: Cambria Math;
+    color: #18196A;
+    font-size: 40px;
+    margin-left: 170px;
+}
+
+.text span{
+    color:#EB900A;
+}
+
+.pro{
+    
+    background: linear-gradient(#F8F8FF,#4D4E8E);
+    height: 750px;
+    border-radius: 5%;
+    box-shadow: -30px 30px 20px rgba(0,0,0,0.3);
+    margin-left: 10%;
+    
+    
+}
+.pro .end{
+    margin-top:70%;
+    width:350px;
+    height:500px;
+}
+
+.pro img{
+    width: 80%;
+    margin-right: 15px;
+    padding-top:80px;
+    padding-left:40px;
+}
+.mar{
+    width: 100%;
+    margin-left: 120px;
+}
+
+@media (max-width:1000px) {
+    .text p{
+        font-family: Cambria Math;
+        color: #18196A;
+        font-size: 30px;
+        width: 55%;
+        margin-left: 70px;
+    }
+    .pho img{
+        width: 80%;
+        margin-left: 50px;
+    }
+    .pro{
+        margin-bottom: 250px;
+    }
+    .product{
+        margin-left: 20%;
+    }
+    .text{
+        width: 200%;
+    }
+    .pro .end{
+        margin-top:50%;
+        width:350px;
+        height:500px;
+    }
+    
+}
+@media (min-width:1000px) {
+    .product{
+        width: 200%;
+    }
+}

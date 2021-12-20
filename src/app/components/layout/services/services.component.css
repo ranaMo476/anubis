@@ -1,0 +1,179 @@
+@media  (max-width:1000px){
+    .responce{
+        width:50%;
+    }
+    .srv{
+        width: 25%;
+    }
+}
+
+@media only screen and (min-width: 568px) {
+    
+    
+    }
+
+
+.row1{
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.responce{
+    border-radius: 50px;
+    background: linear-gradient(325deg,#18196A,#ECEAFF ,#F8F8FF );
+    height: 350px;
+    width:60%;
+    
+    margin-top: 50px;
+   
+   
+}
+
+ .h2{
+
+    height: 390px;
+    margin-top: 50px;
+    margin-left: -200px;
+   
+}
+ .h1{
+    
+    height: 340px;
+    margin-top: 30px;
+    margin-left: -100px;
+   
+
+}
+.srv {
+    width: 25%;
+    margin-left: 80px;
+    padding-top: 70px;
+}
+.srvw {
+    width: 26%;
+    padding-top: 550px;
+}
+
+.heading{
+    text-align: center;
+    color:#EB900A;
+    font-family: Gabriola;
+   
+}
+.heading h3{
+    font-size: 7vh;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+.heading h5{
+    padding-top: 40px;
+    color: #18196A;
+    font-size: 50px;
+}
+.lab{
+    display: flex;
+}
+
+
+
+
+.row2{
+    justify-content: flex-start;
+    width: 100%;   
+}
+
+
+.responce2{
+    border-radius: 50px;
+    background: linear-gradient(325deg,#18196A,#ECEAFF ,#F8F8FF );
+    height: 350px;
+    width:60%;
+    margin-left:10px;
+   
+    
+}
+
+
+.heading2{
+
+text-align: center;
+color:#EB900A;
+padding: 60px;
+font-family: Gabriola;
+}
+.heading2 h3{
+    font-size: 8vh;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+.heading2 h5{
+    padding-top: 20px;
+    color: #18196A;
+    font-size: 35px;
+}
+.lab2{
+    display: flex;
+    padding-top: 200px;
+}
+.ph{
+    padding-left: 80px;
+    height: 440px;
+    margin-top: 80px;
+   
+}
+
+
+h5:before{
+    content: "\2022";
+    color:#EB900A;
+}
+.li1{
+    display: flex;
+}
+.li2{
+  margin-left: 20px;  
+}
+
+
+
+.responce3{
+    border-radius: 50px;
+    background: linear-gradient(325deg,#18196A,#ECEAFF ,#F8F8FF );
+    height: 350px;
+    width:60%;
+    float:left;
+    margin-left:65vh;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+
+.heading3{
+
+text-align: center;
+color:#EB900A;
+
+font-family: Gabriola;
+}
+.heading3 h3{
+    font-size: 8vh;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+.heading3 h5{
+    padding-top: 20px;
+    color: #18196A;
+    font-size: 50px;
+    
+}
+.lab3{
+    display: flex;
+}
+.li3{display: flex;}
+
+
+
+@media (min-width:1000px) {
+
+
+}

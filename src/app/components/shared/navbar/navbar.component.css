@@ -1,0 +1,8 @@
+.textn a{
+    color: #EB900A;
+    font-size: 3vh;
+}
+
+.textn a:hover{
+    color: #442d09;
+}
